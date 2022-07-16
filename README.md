@@ -1,18 +1,11 @@
-# RMIT SEPT 2021 Major Project
-
-# Group Day-Time
+# Buy A Book
 
 ## Members
 Shanil Gunawardane
 Anne Maria Sunil
 Sai Sreshtaa Turaga
 
-## Records
-
-* Github repository :https://github.com/s3805922/SEPT_Team3
-* jira Board : https://sept-group3.atlassian.net/jira/software/projects/ST/boards/1/backlog
-
-Application not dockerised or added to circle ci. Will be done for next sprint 
+This is an e-commerce website that can be used by anyone, allowing users and publishers to sell new or used books. User can add books, view other's books, post/view reviews, search for books in the website.
 
 To run the application locally :
 1. checkout to branch 'dockerise'
