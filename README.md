@@ -3,7 +3,7 @@
 ## Members
 Sai Sreshtaa Turaga, 
 Shanil Gunawardane, 
-Anne Maria Sunil, 
+Anne Maria Sunil
 
 This is an e-commerce website that can be used by anyone, allowing users and publishers to sell new or used books. User can add books, view other's books, post/view reviews, search for books in the website.
 
